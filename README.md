@@ -57,7 +57,9 @@ This repository contains the Figma design files for a Cinema Booking App, create
 3. **Install Required Fonts**: Ensure Poppins font is installed or available in your Figma community.
 4. **Download Icons and UI Kit**: Follow the provided links to download necessary icons and the iOS 15 UI Kit.
 
-
+![Cinema Booking App](https://github.com/Ojaswikumar/Movie-Ticket-Booking-App-Figma-Design/blob/main/Screenshot%202024-06-12%20230033.png)
+![Cinema Booking App](https://github.com/Ojaswikumar/Movie-Ticket-Booking-App-Figma-Design/blob/main/Screenshot%202024-06-12%20230047.png)
+![Cinema Booking App](https://github.com/Ojaswikumar/Movie-Ticket-Booking-App-Figma-Design/blob/main/Screenshot%202024-06-12%20230111.png)
 
 
 ## Contributing
