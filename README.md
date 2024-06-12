@@ -62,6 +62,8 @@ This repository contains the Figma design files for a Cinema Booking App, create
 ![Cinema Booking App](https://github.com/Ojaswikumar/Movie-Ticket-Booking-App-Figma-Design/blob/main/Screenshot%202024-06-12%20230111.png)
 
 
+**To Access it : (https://www.figma.com/design/Ay7sKT2NuuKbydp4LVbM9F/Untitled?node-id=0-1&t=v03A38JCGG7ytwcs-0)
+
 ## Contributing
 
 We welcome contributions to improve this design. Please fork the repository, create a new branch, and submit a pull request with your enhancements.
